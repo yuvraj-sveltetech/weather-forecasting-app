@@ -4,7 +4,8 @@ The app is developed using React.js and material-UI.
 
 <br/>
 
-## 💻 Live Demo: https://662a12efb9fcdb76622db392--sage-sprinkles-5a6dd4.netlify.app/
+## 💻 Live Demo: 
+https://662a12efb9fcdb76622db392--sage-sprinkles-5a6dd4.netlify.app/
 
 
 <br/>
@@ -20,7 +21,7 @@ The app is developed using React.js and material-UI.
 - Clone the repository:
 
 ```
-git clone 
+git clone https://github.com/yuvraj-sveltetech/weather-forecasting-app.git
 
 ```
 
