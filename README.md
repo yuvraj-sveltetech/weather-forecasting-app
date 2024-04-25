@@ -1,11 +1,10 @@
-With [The Weather Forecasting]() user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
+With [The Weather Forecasting](https://662a12efb9fcdb76622db392--sage-sprinkles-5a6dd4.netlify.app/) user can search locations by city name and observe the weather for the next 5-6 days and 3 hour interval.
 <br />
 The app is developed using React.js and material-UI.
 
 <br/>
 
-## 💻 Live Demo:
-
+## 💻 Live Demo: https://662a12efb9fcdb76622db392--sage-sprinkles-5a6dd4.netlify.app/
 
 
 <br/>
